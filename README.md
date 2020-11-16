@@ -2,6 +2,11 @@
 
 [![MGM's github stats](https://github-readme-stats.vercel.app/api?username=mgm-dev)](https://github.com/anuraghazra/github-readme-stats)
 
+### 
+
+부동산학을 전공하다 프롭테크라는 접접으로, 개발자로 전향한 주니어 백엔드 개발자입니다 raised_hands
+적응이 빠르고, 커뮤니케이션이 적극적인 개발자를 목표로 하고 있습니다 grinning
+
 ### :cyclone: Languages
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Javascript&logoColor=white) ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=Python&logoColor=white) 
 ### :mailbox_with_mail: Contacts
